@@ -38,10 +38,13 @@
 
 ### 📸 Live Dashboard Preview
 
-| Real-time Detection & Tracking | Bird's Eye View (BEV) |
-|:---:|:---:|
-| ![Detection](https://via.placeholder.com/400x250/1a1a2e/00d4ff?text=YOLO+Detection+%2B+Tracking) | ![BEV](https://via.placeholder.com/400x250/1a1a2e/00ff88?text=Bird%27s+Eye+View+Map) |
-| *Objects tracked with unique IDs and depth-aware color coding* | *Spatial mapping showing Close/Medium/Far zones* |
+<p align="center">
+  <img src="assets/dashboard_demo.png" alt="D.A.R.T. Dashboard - Real-time Detection with Bird's Eye View" width="900"/>
+</p>
+
+<p align="center">
+  <em>Live dashboard showing real-time object detection, depth-aware tracking, and Bird's Eye View spatial mapping</em>
+</p>
 
 ---
 
